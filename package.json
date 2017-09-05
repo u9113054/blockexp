@@ -1,0 +1,17 @@
+{
+  "name": "blockexp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "loadash": "0.0.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.1.2",
+    "react-scripts": "0.9.5",
+    "web3": "0.17.0-alpha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/react-scripts  start"
+  }
+}
